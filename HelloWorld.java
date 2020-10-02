@@ -1,6 +1,6 @@
-public class Hello {
+public class HelloWorld {   // Class name to be same as the file name , else there will be an error.
     //Print Hello World & Hello Junesh!
-    public static void main (String[] arg){
+    public static void main (String[] args){    //main method compulsory in class files
 
         System.out.println ("Hello World");
 
